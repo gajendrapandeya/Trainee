@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Trainee</string>
+    <string name="logo">Logo</string>
+    <string name="create_an_account">CREATE AN ACCOUNT</string>
+    <string name="full_name">Full Name</string>
+    <string name="refer_code">Refer Code</string>
+    <string name="submit">Submit</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="by_signing_up_you_agree_to_our_privacy_policy_and_terms_and_conditions">By signing up you agree to our privacy policy and terms and conditions.</string>
+    <string name="login_with_account">Login with account</string>
+    <string name="email_address">Email Address</string>
+    <string name="password">Password</string>
+    <string name="forgot_your_password">Forgot your password?</string>
+    <string name="login">Login</string>
+    <string name="home">Home</string>
+    <string name="rank">Rank</string>
+    <string name="wallet">Wallet</string>
+    <string name="profile">Profile</string>
+</resources>
